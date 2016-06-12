@@ -1,0 +1,128 @@
+[
+    {
+        "room3_title": "Registration", 
+        "room1_title": "Registration", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "8:30", 
+        "room2_speaker": "", 
+        "room2_title": "Registration"
+    }, 
+    {
+        "room3_title": "Conference Opening", 
+        "room1_title": "Conference Opening", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "9:45", 
+        "room2_speaker": "", 
+        "room2_title": "Conference Opening"
+    }, 
+    {
+        "room3_title": "", 
+        "room1_title": "Project Lambda: Functional Programming Constructs and Simpler Concurrency in Java SE 8", 
+        "room3_speaker": "", 
+        "room1_speaker": "Simon Ritter", 
+        "time": "10:00", 
+        "room2_speaker": "Simon Ritter", 
+        "room2_title": "Project Lambda: Functional Programming Constructs and Simpler Concurrency in Java SE 8"
+    }, 
+    {
+        "room3_title": "Coffee Pause", 
+        "room1_title": "Coffee Pause", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "11:00", 
+        "room2_speaker": "", 
+        "room2_title": "Coffee Pause"
+    }, 
+    {
+        "room3_title": "Java platform trade-offs<span class=\"lang\">(Rus)</span>", 
+        "room1_title": "Immutable Java", 
+        "room3_speaker": "Alexey Fedorov", 
+        "room1_speaker": "Tero Parviainen", 
+        "time": "11:30", 
+        "room2_speaker": "Dirk Mahler", 
+        "room2_title": "Exploration and Verification of Java Applications Using a Graph Database"
+    }, 
+    {
+        "room3_title": "Lunch", 
+        "room1_title": "Lunch", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "12:30", 
+        "room2_speaker": "", 
+        "room2_title": "Lunch"
+    }, 
+    {
+        "room3_title": "Managing highly concurrent data at Odnoklassniki<span class=\"lang\">(Rus)</span>", 
+        "room1_title": "Effective Scala", 
+        "room3_speaker": "Roman Antipin", 
+        "room1_speaker": "Mirco Dotta", 
+        "time": "13:30", 
+        "room2_speaker": "Sergey Kuksenko", 
+        "room2_title": "\"Quantum\" Performance Effects"
+    }, 
+    {
+        "room3_title": "Modernize Your Home or Garage with Java Embedded<span class=\"lang\">(Rus)</span>", 
+        "room1_title": "10 years of Groovy!", 
+        "room3_speaker": "Alexander Mironenko", 
+        "room1_speaker": "C\u00e9dric Champeau", 
+        "time": "14:30", 
+        "room2_speaker": "Patroklos Papapetrou", 
+        "room2_title": "Tracking and Improving Software Quality with Sonar"
+    }, 
+    {
+        "room3_title": "Coffee Pause", 
+        "room1_title": "Coffee Pause", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "15:30", 
+        "room2_speaker": "", 
+        "room2_title": "Coffee Pause"
+    }, 
+    {
+        "room3_title": "JavaFX Deployment", 
+        "room1_title": "JDK8: Stream style", 
+        "room3_speaker": "Jan Valenta", 
+        "room1_speaker": "Sergey Kuksenko", 
+        "time": "16:00", 
+        "room2_speaker": "Luciano Fiandesio, Andrey Adamovich", 
+        "room2_title": "Groovy DevOps in the Cloud"
+    }, 
+    {
+        "room3_title": "\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438.\u0440\u0443<span class=\"lang\">(Rus)</span>", 
+        "room1_title": "High Performance Design", 
+        "room3_speaker": "Alexey Shevchuk", 
+        "room1_speaker": "Nick Zeeb", 
+        "time": "17:00", 
+        "room2_speaker": "Eduard Sizov", 
+        "room2_title": "Micro Service Architecture"
+    }, 
+    {
+        "room3_title": "Conference Closing", 
+        "room1_title": "Conference Closing", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "17:50", 
+        "room2_speaker": "", 
+        "room2_title": "Conference Closing"
+    }, 
+    {
+        "room3_title": "The End", 
+        "room1_title": "The End", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "18:00", 
+        "room2_speaker": "", 
+        "room2_title": "The End"
+    }, 
+    {
+        "room3_title": "Afterparty", 
+        "room1_title": "Afterparty", 
+        "room3_speaker": "", 
+        "room1_speaker": "", 
+        "time": "19:00", 
+        "room2_speaker": "", 
+        "room2_title": "Afterparty"
+    }
+]
